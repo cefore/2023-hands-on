@@ -1,2 +1,2 @@
 # 2023-hands-on
-Cefore Hands-on materials of 2023 IEICE ICN workshop.
+Materials and script codes of Cefore Hands-on in 2023 IEICE ICN workshop.
